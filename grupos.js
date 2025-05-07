@@ -11,7 +11,7 @@ const elements = [
 
     // LOS COJONES
     {
-        url: "https://www.instagram.com/loscojonesoeoe",
+        url: "https://open.spotify.com/artist/5p2Ez16VSkHhN9ZG8SNNd8?si=ZOGU1ep2QJyzpFvPGxBkJw",
         image: "https://s1.ppllstatics.com/elcorreo/www/multimedia/202202/09/media/cortadas/rock2-kzvB-U160871286370NdH-624x385@El%20Correo.jpg",
         title: "Los Cojones"
     },

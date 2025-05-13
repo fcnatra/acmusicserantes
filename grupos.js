@@ -4,7 +4,7 @@ const elements = [
     // BILONGO LT
     {
         url: "http://www.bilongolt.com",
-        image: "https://scontent-mad1-1.xx.fbcdn.net/v/t39.30808-6/272149836_4501268183328737_2255386210510333522_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=2anK65A3UDIQ7kNvwFdK4-r&_nc_oc=AdlwM3GTQ7ic0Qhrpo28VHYquR3s69n1FtmbvzeY-aqDretqEyAG1bRu2Lpr-WFTnrU&_nc_zt=23&_nc_ht=scontent-mad1-1.xx&_nc_gid=_6a9XTH1uOWj06yWQUp7Vg&oh=00_AfKee-9ioNzOGQApb-iuW6z_WBoVCqSaIy2oMyoVDU6_Ng&oe=681FA0C0",
+        image: "https://elmundodetulsa.com/wp-content/uploads/272149836_4501268183328737_2255386210510333522_n-copia-640x640.jpg",
         title: "Bilongo LT"
     },
 

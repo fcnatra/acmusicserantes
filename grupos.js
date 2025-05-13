@@ -4,7 +4,7 @@ const elements = [
     // BILONGO LT
     {
         url: "http://www.bilongolt.com",
-        image: "https://elmundodetulsa.com/wp-content/uploads/272149836_4501268183328737_2255386210510333522_n-copia-640x640.jpg",
+        image: "https://www.premiosrockvillamadrid.es/wp-content/uploads/2024/04/BILONGO-LT.jpg",
         title: "Bilongo LT"
     },
 
